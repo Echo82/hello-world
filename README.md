@@ -1,4 +1,4 @@
 # hello-world
 
 
-First GitHub program yet
+Second GitHub program yet
